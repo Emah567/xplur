@@ -18,7 +18,7 @@ const AboutPage = () => {
       <p>
           At xplur, we are passionate about connecting adventurers
           with the wonders of nature. Our app is designed to cater to both
-          seasoned Explorers and beginners, offering a wide range of adventuring
+          seasoned trekkers and beginners, offering a wide range of trekking
           experiences in mesmerizing landscapes around the world.
         </p>
 <div className="num">
