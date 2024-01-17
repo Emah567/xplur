@@ -35,7 +35,7 @@ const Footer = () => {
             <Mail />
           </a>
         </div>
-        <p>Copyright &copy;{new Date().getFullYear()} <a href="index.html">xplur</a>. All Rights Reserved. Design by <a href="https://github.com/godspowerufot" target="_blank">EmahWD</a></p>
+        <p>Copyright &copy;{new Date().getFullYear()} <a href="index.html">xplur</a>. All Rights Reserved. Design by <a href="https://github.com/godspowerufot" target="_blank">Bhigital Digital Agency</a></p>
       </div>
     </footer>
   );
